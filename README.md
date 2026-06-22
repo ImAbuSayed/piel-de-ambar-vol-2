@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-de-ambar-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Piel de ámbar, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-ambar-vol-2/) |
+| **Get License** | [Get a Licensing Quote for Piel de ámbar, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-ambar-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `170d71087f3cf0449ee1e94a755f5d6375421ba3a0f31d02b4bc0bd56ba5217c` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

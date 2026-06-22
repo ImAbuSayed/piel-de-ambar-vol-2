@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel de ámbar, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Piel de ámbar, Vol. 2** (piel-de-ambar-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T20:19:32.230289 | `v1` | `170d71087f3cf0449ee1e94a755f5d6375421ba3a0f31d02b4bc0bd56ba5217c` | `401fa5b00d3054553125ead5d1e82281de23ea6e3c8441c0c0284338796fe596` | `2026-06-22_piel-de-ambar-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
