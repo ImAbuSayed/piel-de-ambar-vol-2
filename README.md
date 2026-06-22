@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-de-ambar-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Piel de ámbar, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-ambar-vol-2/) |
+| **Get License** | [Secure Licensing Rights for Piel de ámbar, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-ambar-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche tú te escapas conmigo
+> Tengo el coche listo y el destino escondido
+> Con ese vestido negro tú eres mi castigo
+> Quiero ser el dueño de lo que haces sin ruido
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
